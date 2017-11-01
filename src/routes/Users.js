@@ -9,6 +9,7 @@ function Users({ location }) {
     <MainLayout location={location}>
       <div className={styles.normal}>
         <UsersComponent />
+		<UsersComponent />
       </div>
     </MainLayout>
   );
