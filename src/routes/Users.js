@@ -9,7 +9,7 @@ function Users({ location }) {
     <MainLayout location={location}>
       <div className={styles.normal}>
         <UsersComponent />
-		<UsersComponent />啊啊
+		<UsersComponent />
       </div>
     </MainLayout>
   );
